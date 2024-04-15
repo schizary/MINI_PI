@@ -41,6 +41,46 @@ body {
 	background: var(--cor0);
 }
 
+/* PERSONAGENS */
+
+.imgshanks{
+	text-align: center;
+}
+
+.shanks{
+	height: 800px;
+}
+
+.imgbarba{
+	text-align: center;
+}
+
+.barba{
+	height: 800px;
+}
+
+.roger{
+	height: 800px;
+}
+
+.garp{
+	height: 800px;
+}
+
+.imuxebec{
+	display: flex;
+}
+
+.xebec{
+	height: 800px;
+	width: 510px;
+}
+
+.imu{height: 800px;
+	width:450px;
+}
+
+
 /* Palavras Grifadas no texto */
 strong {
 	color: var(--cor3);
