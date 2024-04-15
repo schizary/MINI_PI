@@ -73,11 +73,13 @@ body {
 
 .xebec{
 	height: 800px;
-	width: 510px;
+}
+
+.imgimu{
+	text-align: center;
 }
 
 .imu{height: 800px;
-	width:450px;
 }
 
 
