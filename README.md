@@ -1,7 +1,9 @@
 🏴‍☠️ OLÁ MUGIWARAS!!
+
 Esse site foi criado com o intúito de mostrar meus conhecimentos e dar minhas opiniões no universo de One Piece, além de ter o potencial de desenvolver debates ou discussões dos argumentos apresentados.
 
 📄 Objetivo
+
 O objetivo principal é mostrar minha opinião sobre os personagens apresentados e gerar um debate sobre o tema.
 
 Link do site: https://top5onepiece.netlify.app/
