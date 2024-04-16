@@ -16,7 +16,8 @@ Link do site: https://top5onepiece.netlify.app/
 ![Screenshot_108](https://github.com/schizary/MINI_PI/assets/161368632/eb24df82-96f9-439c-8bde-f386d5a23097)
 ![Screenshot_105](https://github.com/schizary/MINI_PI/assets/161368632/4449a559-a23b-43c6-a4f3-e385d4a75fd1)
 ![Screenshot_106](https://github.com/schizary/MINI_PI/assets/161368632/bcf849de-715e-471b-b336-79c8cf01bc94)
-![Screenshot_107](https://github.com/schizary/MINI_PI/assets/161368632/85fd3384-0f53-4f36-9640-76317988c0ad)
+![Screenshot_109](https://github.com/schizary/MINI_PI/assets/161368632/f0a845b0-1f39-4d32-b6c6-9a7400b34fc6)
+
 
 🔗 Recursos utilizados
 
