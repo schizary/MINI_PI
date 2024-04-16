@@ -1,8 +1,8 @@
-🏴‍☠️
-O Site foi feito com o intúito de mostar meu currículo e portfólio online. Foi proposto no curso de Desenvolvimento de Software Multiplataforma no primeiro semestre de 2024.
+🏴‍☠️ OLÁ MUGIWARAS!!
+Esse site foi criado com o intúito de mostrar meus conhecimentos e dar minhas opiniões no universo de One Piece, além de ter o potencial de desenvolver debates ou discussões dos argumentos apresentados.
 
 📄 Objetivo
-O objetivo do site é mostar um "currículo" online para que pessoas e empresas possam me avaliar através de uma interface online de maneira facil e simples.
+O objetivo principal 
 
 Link do site: https://schizari.netlify.app/
 
