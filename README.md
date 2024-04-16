@@ -4,9 +4,10 @@ Esse site foi criado com o intúito de mostrar meus conhecimentos e dar minhas o
 📄 Objetivo
 O objetivo principal é mostrar minha opinião sobre os personagens apresentados e gerar um debate sobre o tema.
 
-Link do site: https://schizari.netlify.app/
+Link do site: https://top5onepiece.netlify.app/
 
 📷 Imagens do site
+<img src=imagens/Screenshot_100.png>
 
 🔗 Recursos utilizados
 
